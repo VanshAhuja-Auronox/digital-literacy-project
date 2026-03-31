@@ -53,15 +53,24 @@ Folder: task-5-cybercrime/
 
 
 ## Repository Structure
+
 digital-literacy-project  
+
 README.md  
-Project_Report  
+
+Project_Report.pdf  
+
 task-1-presentation/
+
 task-2-portfolio/ 
-task-3-platforms/  
+
+task-3-platforms/ 
+
 task-4-email-etiquette/  
+
 task-5-cybercrime/  
 
+-----
 
 ## Key Learnings
 Through this project, I learned the importance of digital literacy in everyday life. I gained basic knowledge of different digital platforms, improved my communication skills, and understood how to stay safe online. This project also helped me become more comfortable using digital tools for academic work.
